@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RA_SilentTimer</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSilent">Silent mode</string>
+    <string name="txtVibrate">Vibrate mode</string>
+    <string name="txtNormal">Normal mode</string>
+    <string name="txtCloseView">To close this screen</string>
+    <string name="txtKillApp">To unload the program</string>
+    <string name="capOn">ON</string>
+    <string name="capOff">OFF</string>
+    <string name="Copyr" translatable="false">© Anvarov Rais \n2016 (Orenburg) \ne-mail: ra7@bk.ru</string>
+</resources>
